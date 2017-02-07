@@ -1,0 +1,29 @@
+{
+  "name": "kr-styles",
+  "version": "1.0.0",
+  "description": "Custom css styles for frequent use",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kushalraghavpoojari/kr-styles.git"
+  },
+  "keywords": [
+    "styles",
+    "css"
+  ],
+  "author": "Kushal Raghav Poojari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kushalraghavpoojari/kr-styles/issues"
+  },
+  "homepage": "https://github.com/kushalraghavpoojari/kr-styles#readme",
+  "devDependencies": {
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^3.0.0",
+    "gulp-rename": "^1.2.2"
+  }
+}
