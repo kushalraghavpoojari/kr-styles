@@ -1,0 +1,21 @@
+{
+  "name": "kr-styles",
+  "authors": [
+    "Kushal Raghav Poojari <kushalraghavpoojari@gmail.com>"
+  ],
+  "description": "Styles for use",
+  "main": "",
+  "keywords": [
+    "styles",
+    "css"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
