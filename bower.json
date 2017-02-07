@@ -4,7 +4,7 @@
     "Kushal Raghav Poojari <kushalraghavpoojari@gmail.com>"
   ],
   "description": "Styles for use",
-  "main": "",
+  "main": "css/kr-styles.css",
   "keywords": [
     "styles",
     "css"
